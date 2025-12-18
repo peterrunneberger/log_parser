@@ -1,0 +1,22 @@
+group_1:
+  name_1:
+    pattern_type: regexp
+    sequence: false
+    patterns:
+      - 'example pattern'
+  name_2:
+    pattern_type: regexp
+    sequence: false
+    patterns:
+      - 'example pattern'
+group_2:
+  name_1:
+    pattern_type: regexp
+    sequence: false
+    patterns:
+      - 'example pattern'
+  name_2:
+    pattern_type: regexp
+    sequence: false
+    patterns:
+      - 'example pattern'
